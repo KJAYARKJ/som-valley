@@ -35,7 +35,7 @@
             <button id="prevBtn" class="carousel-button" aria-label="Previous image">Prev</button>
             <button id="nextBtn" class="carousel-button" aria-label="Next image">Next</button>
         </section>
-
+<h1>we stand for duty of  atmost care of your kids <h1>
         <section class="quote" aria-labelledby="quoteHeading">
             <h2 id="quoteHeading">Quote of the Day</h2>
             <p id="dailyQuote">"Every child is a different kind of flower, and all together, make this world a beautiful garden."</p>
