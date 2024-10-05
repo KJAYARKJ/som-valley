@@ -325,7 +325,7 @@
             
             <div class="contact-info">
                 <h3>Contact Information</h3>
-                <p><strong>Address:</strong> 123 Preschool Lane, Som Valley, ST 45678</p>
+                <p><strong>Address:</strong> M2 ground floor RAMAKRISHNA VIHAR APPARTMENT IP EXTENSION DELHI -110092  </p>
                 <p><strong>Phone:</strong> <a href="tel:+1234567890">+1 (234) 567-890</a></p>
                 <p><strong>Email:</strong> <a href="mailto:info@somvalleypreschool.com">info@somvalleypreschool.com</a></p>
                 <h3>Follow Us</h3>
@@ -333,6 +333,7 @@
                     <a href="https://www.facebook.com/SomValleyPreschool" target="_blank">Facebook</a> | 
                     <a href="https://www.instagram.com/SomValleyPreschool" target="_blank">Instagram</a> | 
                     <a href="https://www.twitter.com/SomValleyPreschool" target="_blank">Twitter</a>
+                    <a href=""
                 </p>
             </div>
         
